@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ahRazavi
+- 👋 Hi, I’m Amirhossein Razavi
 - 👀 I’m interested in Python, MachineLearning, Image Processing
 - 🌱 I’m currently learning Python, MachineLearning, Image Processing
 - 💞️ I’m looking to collaborate on Python, MachineLearning, Image Processing
-- 📫 How to reach me telegram == @A_H_RZ19
+- 📫 How to reach me via telegram == @AmirH_Razavi
 
 <!---
 ahRazavi/ahRazavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
